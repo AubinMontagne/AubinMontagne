@@ -1,5 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
+GITHUB en refonte
+
 ## 🎯 À propos de moi
 
 - 🎓 Étudiant en 2ᵉ année de BUT Informatique à l'IUT du Havre
