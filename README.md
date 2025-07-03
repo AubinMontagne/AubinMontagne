@@ -2,6 +2,13 @@
 
 GITHUB en refonte
 
+## 🔧 Compétences
+
+- **Langages :** Java, PHP, JavaScript, HTML/CSS, C ...
+- **Technologies :** Docker, Git , Node, Vue.js ...
+- **Base de données :** MySQL, PostgreSQL, MongoDB ...
+- **Méthodologies :** MVC, Programmation Orientée Objet ...
+
 ## 🎯 À propos de moi
 
 - 🎓 Étudiant en 2ᵉ année de BUT Informatique à l'IUT du Havre
@@ -10,14 +17,13 @@ GITHUB en refonte
 - 🎭 Amateur de théâtre et de cinéma d'animation
 - 🏐 Joue au volley-ball et apprécie les jeux (FPS/MOBA) nerveux
 
-## 🔧 Compétences
-
-- **Langages :** Java, PHP, JavaScript, HTML/CSS, C ...
-- **Technologies :** Docker, Git , Node, Vue.js ...
-- **Base de données :** MySQL, PostgreSQL, MongoDB ...
-- **Méthodologies :** MVC, Programmation Orientée Objet ...
 
 ## 🚀 Projets en cours
+
+- MorpionMENACE
+- Site web de podcast
+
+## 🚀 Projets en pause
 
 - Portfolio Web en cours
 - Challenge cyber du 24H Info IUT édition 2025
