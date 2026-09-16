@@ -1,26 +1,30 @@
 https://www.linkedin.com/in/aubin-montagne-10831230b/
 
-## Compétences
+## Skills
 
-- **Langages :** Java, PHP, JavaScript, Typescript, C , C# , Python, VB, WLangage ...
-- **Technologies :** Docker, Git , React Native, Node, Vue.js ...
-- **Base de données :** PostgreSQL, MongoDB, PLSQL , MySQL  ...
-- **Méthodologies :** MVC, Programmation Orientée Objet ...
-- **CI/CD :** : GitHub Actions, GitLab CI, Docker, Cloud ...
+* **Languages:** Java, PHP, JavaScript, TypeScript, C, C#, Python, VB, WLanguage
+* **Technologies & Frameworks:** Docker, Git, React Native, Node.js, Vue.js
+* **Databases:** PostgreSQL, MongoDB, PL/SQL, MySQL
+* **Methodologies:** MVC, Object-Oriented Programming (OOP)
+* **CI/CD & DevOps:** GitHub Actions, GitLab CI, Docker, Cloud Platforms
 
-## À propos de moi
+---
 
-- 🎓 Étudiant en 1ère année d'ingénieur informatique au CESI
-- 🌍 Intéressé par l'informatique du bien-être (améliorer le confort humain, s'opposer à l'économie de l'attention)
-- 🎭 Amateur de théâtre, de cinéma d'animation et d'hard rock/metal/nu wave
-- 🏐 Pratique l'escalade et apprécie les jeux (FPS/MOBA) nerveux
+## About Me
 
+* 🎓 First-year software engineering student at **CESI**
+* 🌍 Passionate about mindful computing—building software that enhances human well-being while pushing back against the attention economy
+* 🎭 Enthusiast of theatre, animated cinema, and hard rock / heavy metal / new wave
+* 🧗 Active boulderer and fan of fast-paced competitive games (FPS / MOBA)
 
-## 🚀 Projets en cours
+---
 
+## 🚀 Active Projects
 
+* **Mixtail :** More to know soon !
+* **API :** Modular FastAPI backend gateway managing shared databases with multiple frontends.
+* **Developer Portfolio :** Personal showcase  
 
-## 🚀 Projets en pause
+---
 
-
-  
+## ⏸️ Projects on Hold
