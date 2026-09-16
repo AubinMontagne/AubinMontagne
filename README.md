@@ -28,3 +28,6 @@ https://www.linkedin.com/in/aubin-montagne-10831230b/
 ---
 
 ## ⏸️ Projects on Hold
+
+## Reach me
+[contact@aubinmontagne.fr](mailto:contact@aubinmontagne.fr)
